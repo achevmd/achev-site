@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/achev-site/static/css/main.2d917618.chunk.css",
+    "main.js": "/achev-site/static/js/main.23269ff0.chunk.js",
+    "main.js.map": "/achev-site/static/js/main.23269ff0.chunk.js.map",
+    "runtime-main.js": "/achev-site/static/js/runtime-main.dca6aed8.js",
+    "runtime-main.js.map": "/achev-site/static/js/runtime-main.dca6aed8.js.map",
+    "static/js/2.288061d4.chunk.js": "/achev-site/static/js/2.288061d4.chunk.js",
+    "static/js/2.288061d4.chunk.js.map": "/achev-site/static/js/2.288061d4.chunk.js.map",
+    "index.html": "/achev-site/index.html",
+    "precache-manifest.8f57d56fffca7be0022c94e2b54c1e89.js": "/achev-site/precache-manifest.8f57d56fffca7be0022c94e2b54c1e89.js",
+    "service-worker.js": "/achev-site/service-worker.js",
+    "static/css/main.2d917618.chunk.css.map": "/achev-site/static/css/main.2d917618.chunk.css.map",
+    "static/js/2.288061d4.chunk.js.LICENSE.txt": "/achev-site/static/js/2.288061d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca6aed8.js",
+    "static/js/2.288061d4.chunk.js",
+    "static/css/main.2d917618.chunk.css",
+    "static/js/main.23269ff0.chunk.js"
+  ]
+}
